@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="" />
+    <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +41,48 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fAM5DdNurlVkEKchl8olcjZUvh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/html-css-course/sample/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,17 +94,165 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595656258512</updated>
-      <workItem from="1595656261217" duration="7000" />
+      <workItem from="1595656261217" duration="2935000" />
+      <workItem from="1595685642669" duration="51000" />
+      <workItem from="1595685738620" duration="2455000" />
+      <workItem from="1595688340339" duration="28000" />
+      <workItem from="1595688593416" duration="24000" />
+      <workItem from="1595688816023" duration="374000" />
+      <workItem from="1595689210003" duration="69000" />
+      <workItem from="1595689290785" duration="304000" />
+      <workItem from="1595695449921" duration="2576000" />
+      <workItem from="1595715843933" duration="5424000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1595656367430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595656367430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view">
+      <created>1595656457923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595656457923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1595656267960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595656267960" />
+    <state x="765" y="228" key="#Web_Browsers" timestamp="1595697233835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#Web_Browsers/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697233835" />
+    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595697235509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697235509" />
+    <state x="729" y="208" key="#index.html" timestamp="1595688308846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="208" key="#index.html/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595688308846" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1595697232173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697232173" />
+    <state x="824" y="422" key="Github.ShareDialog" timestamp="1595656309753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="422" key="Github.ShareDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595656309753" />
+    <state x="774" y="134" key="Github.UntrackedFilesDialog" timestamp="1595656342039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="134" key="Github.UntrackedFilesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595656342039" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1595697236939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1595697236939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1595697236939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1595697236939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
+    <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.1.center" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.1.left" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.1.right" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.2.bottom" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.2.center" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.2.left" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.2.right" timestamp="1595697236873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.3.bottom" timestamp="1595689189895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689189895" />
+    <state width="1877" height="220" key="GridCell.Tab.3.center" timestamp="1595689189895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.3.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689189895" />
+    <state width="1877" height="220" key="GridCell.Tab.3.left" timestamp="1595689189895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.3.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689189895" />
+    <state width="1877" height="220" key="GridCell.Tab.3.right" timestamp="1595689189895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.3.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689189895" />
+    <state x="700" y="138" key="SettingsEditor" timestamp="1595689594062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="138" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689594062" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1595718375817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595718375817" />
+    <state x="747" y="372" width="426" height="295" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1595718364273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="372" width="426" height="295" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595718364273" />
+    <state x="342" y="121" key="new project wizard" timestamp="1595788252507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="121" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595788252507" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
 </project>
