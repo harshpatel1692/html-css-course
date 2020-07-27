@@ -20,18 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/css/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/app-iPhone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/back-customers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/berlin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/download-app-android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/download-app.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/lisbon-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/london.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/san-francisco.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/omnifood/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omnifood/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/resources/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,20 +77,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/omnifood/resources/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\img" />
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\css\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\css" />
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood" />
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\src\resources" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/html-css-course/sample/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5500/html-css-course/omnifood/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -103,7 +131,8 @@
       <workItem from="1595689210003" duration="69000" />
       <workItem from="1595689290785" duration="304000" />
       <workItem from="1595695449921" duration="2576000" />
-      <workItem from="1595715843933" duration="5424000" />
+      <workItem from="1595715843933" duration="20982000" />
+      <workItem from="1595806782873" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1595656367430</created>
@@ -119,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595656457923</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="skeleton for the project">
+      <created>1595790028856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595790028856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,11 +171,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view" />
+    <MESSAGE value="skeleton for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="skeleton for the project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1595656267960">
@@ -150,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="228" key="#Web_Browsers/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697233835" />
-    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595697235509">
+    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595798068716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697235509" />
+    <state x="207" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595798068716" />
     <state x="729" y="208" key="#index.html" timestamp="1595688308846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,54 +208,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="774" y="134" key="Github.UntrackedFilesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595656342039" />
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1595697236939">
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
-    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1595697236939">
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1595806664027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
-    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1595697236939">
+    <state width="1877" height="220" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664027" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1595806664027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
-    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1595697236939">
+    <state width="1877" height="220" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664027" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236939" />
-    <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.1.center" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.1.center" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.1.left" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.1.left" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.1.right" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.1.right" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.2.bottom" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.2.bottom" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.2.center" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.2.center" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.2.left" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.2.left" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
-    <state width="1877" height="220" key="GridCell.Tab.2.right" timestamp="1595697236873">
+    <state width="1877" height="220" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.2.right" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595697236873" />
+    <state width="1877" height="220" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
     <state width="1877" height="220" key="GridCell.Tab.3.bottom" timestamp="1595689189895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,14 +272,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="220" key="GridCell.Tab.3.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689189895" />
-    <state x="700" y="138" key="SettingsEditor" timestamp="1595689594062">
+    <state x="700" y="138" key="SettingsEditor" timestamp="1595798058278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="700" y="138" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595689594062" />
+    <state x="700" y="138" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595798058278" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1595718375817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595718375817" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1595790036769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595790036769" />
     <state x="747" y="372" width="426" height="295" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1595718364273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
