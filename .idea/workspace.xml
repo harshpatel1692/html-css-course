@@ -20,32 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/css/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/app-iPhone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/back-customers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/berlin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/customer-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/download-app-android.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/download-app.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/lisbon-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/london.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/img/san-francisco.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omnifood/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omnifood/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omnifood/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/resources/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +109,7 @@
       <workItem from="1595689290785" duration="304000" />
       <workItem from="1595695449921" duration="2576000" />
       <workItem from="1595715843933" duration="20982000" />
-      <workItem from="1595806782873" duration="1246000" />
+      <workItem from="1595806782873" duration="5908000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1595656367430</created>
@@ -155,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595790028856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Header section">
+      <created>1595823191812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595823191812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +161,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Files Added: https://drive.google.com/file/d/0B-L1rGXV4PtMNVFkQlhIenZLbm8/view" />
     <MESSAGE value="skeleton for the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="skeleton for the project" />
+    <MESSAGE value="Header section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Header section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1595656267960">
@@ -208,22 +193,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="774" y="134" key="Github.UntrackedFilesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595656342039" />
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1595806664028">
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1595823199697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
-    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1595806664027">
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595823199697" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1595823199697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664027" />
-    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1595806664027">
+    <state width="1877" height="220" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595823199697" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1595823199696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664027" />
-    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1595806664028">
+    <state width="1877" height="220" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595823199696" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1595823199697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="220" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595806664028" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595823199697" />
     <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1595806664028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
