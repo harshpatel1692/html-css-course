@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/omnifood/resources/css/img/back-customers.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omnifood/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omnifood/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/resources/css/style.css" afterDir="false" />
@@ -61,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TheYearOfThePandemic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/omnifood/resources/css/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -70,14 +71,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\img" />
-      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\css\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\css" />
       <recent name="D:\Harsh\Projects\html-css-course\omnifood" />
       <recent name="D:\Harsh\Projects\html-css-course\omnifood\src\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\css\img" />
+      <recent name="D:\Harsh\Projects\html-css-course\omnifood\resources\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -127,7 +128,7 @@
       <workItem from="1596054188507" duration="168000" />
       <workItem from="1596054372580" duration="146000" />
       <workItem from="1596218288149" duration="33000" />
-      <workItem from="1596292042365" duration="17638000" />
+      <workItem from="1596292042365" duration="19480000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1595656367430</created>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596309313287</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Meals and Cities section">
+      <created>1596337280215</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596337280215</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +204,8 @@
     <MESSAGE value="Header section" />
     <MESSAGE value="Ion Icons" />
     <MESSAGE value="Completed features section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed features section." />
+    <MESSAGE value="Meals and Cities section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Meals and Cities section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="847" y="356" key="#Notifications" timestamp="1596054378361">
