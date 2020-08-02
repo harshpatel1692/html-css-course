@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a774614-707c-471e-87d3-3c59ef55f8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/omnifood/resources/css/img/back-customers.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omnifood/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omnifood/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/omnifood/resources/css/style.css" afterDir="false" />
@@ -128,7 +127,7 @@
       <workItem from="1596054188507" duration="168000" />
       <workItem from="1596054372580" duration="146000" />
       <workItem from="1596218288149" duration="33000" />
-      <workItem from="1596292042365" duration="19480000" />
+      <workItem from="1596292042365" duration="23301000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1595656367430</created>
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596337280215</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="customer feedback section">
+      <created>1596338915516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596338915516</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +211,8 @@
     <MESSAGE value="Ion Icons" />
     <MESSAGE value="Completed features section." />
     <MESSAGE value="Meals and Cities section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meals and Cities section" />
+    <MESSAGE value="customer feedback section" />
+    <option name="LAST_COMMIT_MESSAGE" value="customer feedback section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="847" y="356" key="#Notifications" timestamp="1596054378361">
@@ -324,10 +331,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595718375817" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1596309322100">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1596338923051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596309322100" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596338923051" />
     <state x="747" y="372" width="426" height="295" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1595718364273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
